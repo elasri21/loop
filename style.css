@@ -384,6 +384,9 @@ footer {
     grid-row: 4/5;
   }
 }
+.gallery.mobile {
+  display: none;
+}
 /*less than 500px*/
 @media screen and (max-width: 560px) {
   .gallery.desktop {
